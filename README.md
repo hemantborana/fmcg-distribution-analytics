@@ -104,7 +104,17 @@ All datasets contain anonymized business data. Retailer names, style codes, and 
 
 ---
 
-## 🚀 Running the Streamlit App
+## 🌐 Live Demo
+
+**The app is live and accessible here:**
+
+👉 **[https://fmcg-distribution-analytics.streamlit.app/](https://fmcg-distribution-analytics.streamlit.app/)**
+
+> Note: The hosted app runs on anonymized sample data. The full analysis uses proprietary operational data stored locally.
+
+---
+
+## 🚀 Running Locally
 
 ### Prerequisites
 ```bash
